@@ -1,8 +1,9 @@
 # Final_project-CM3070-UOL
 
-# Stock Trend Prediction with Machine Learning
+# Predicting Stock Market Trends using Machine Learning
 
-Welcome to the Stock Trend Prediction project! This repository contains the code and resources for predicting stock trends using machine learning techniques. We use historical stock data from Yahoo Finance to build and evaluate predictive models that can assist investors in making informed decisions.
+
+Welcome to the Predicting Stock Market Trends project! This repository contains the code and resources for predicting stock trends using machine learning techniques. We use historical stock data from Yahoo Finance to build and evaluate predictive models that can assist investors in making informed decisions.
 
 ## Project Overview
 
@@ -16,7 +17,7 @@ In today's fast-paced financial markets, staying ahead of stock price movements 
 ## Features
 
 - **Data Collection**: We gather historical stock data, including prices, trading volume, and other relevant features, from Yahoo Finance.
-- **Machine Learning Models**: We implement and fine-tune different machine learning algorithms, including Linear Regression, ANN wtih time series models(LSTM and Dense 3 layers (4 neurons, 100 neurons, 1 neurons), Support Vector machines with Regression to predict stock trends.
+- **Machine Learning Models**: We implement and fine-tune different machine learning algorithms, including Linear Regression, ANN with time series models(LSTM and Dense 3 layers (4 neurons, 100 neurons, 1 neurons), Support Vector machines with Regression to predict stock trends.
 - **Model Evaluation**: We assess model performance using metrics like MSE	RMSE	MAE	R2 as well as visualizations.
 
 ## License
