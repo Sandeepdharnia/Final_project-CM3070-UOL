@@ -24,5 +24,4 @@ In today's fast-paced financial markets, staying ahead of stock price movements 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
-We would like to thank the open-source community for providing valuable tools and libraries that made this project possible.
+I would like to thank the open-source community for providing valuable tools and libraries that made this project possible.
